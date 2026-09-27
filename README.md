@@ -1,4 +1,4 @@
 # git-practice
 # Learning Git and GitHub!
-# Practicing branches now.
-# MAIN branch says hello
+# Practice branches now.
+# CONFLICT-TEST branch says hello instead
